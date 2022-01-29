@@ -7,33 +7,41 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      subMaxLevel: 3,
       loadSidebar: true,
-      loadNavbar: true
-    }
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-	<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+      subMaxLevel: 3,
+      name: '风沙星辰',
+      relativePath: true,
+      auto2top: true,
+      loadNavbar: true,
+		count:{
+		countable:true,
+		fontsize:'0.9em',
+		color:'rgb(90,90,90)',
+		language:'chinese'
+		},
+		formatUpdated: '{MM}/{DD} {HH}:{mm}',
+		formatUpdated: function(time) {
+		// ...
+		return time;
+		},
 
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-<script>
-  const gitalk = new Gitalk({
-    clientID: '4931b18ddcf4aa23afa1',
-    clientSecret: '1e2de7b8ef517f8df0caf5df21dd3281b33d6275',
-    repo: 'gitalk',
-    owner: 'gary8177',
-    admin: ['gary8177'],
-    // facebook-like distraction free mode
-    distractionFreeMode: false
-  })
-</script>
+    };
+  </script>
+	<!-- Docsify v4 -->
+	<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+	<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+	
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+<!-- plugins -->
+<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>

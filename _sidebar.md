@@ -20,5 +20,4 @@
   * [自家大盘鸡教程.md](做菜\自家大盘鸡教程.md) 
 * 其他
   * [arch-install自动脚本.md](其他\arch-install自动脚本.md) 
-  * [功能代码.md](其他\功能代码.md) 
   * [index配置备份.md](其他\index配置备份.md) 

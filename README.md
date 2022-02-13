@@ -1,5 +1,9 @@
 # 风沙星辰的知识库
 
+### 20220213
+
+![c73dba53adf4f22a9cc000c6e7bb2661](https://cdn.jsdelivr.net/gh//gary8177/pic@main/20220213_1644732054.jpg)
+
 ### 20220209
 
 ![IMG_20220208_160149](https://cdn.jsdelivr.net/gh//gary8177/pic@main/20220209_1644388140.jpg)

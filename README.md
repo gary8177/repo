@@ -2,7 +2,7 @@
 
 ### 20220216
 
-![Pixiv.Cat](https://pixiv.cat/96274491.jpg)
+![Pixiv.Cat](https://pixiv.re/96274491.jpg)
 
 ### 20220213
 

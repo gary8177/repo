@@ -1,5 +1,9 @@
 # 风沙星辰的知识库
 
+### 20220221
+
+![waifu](https://cdn.jsdelivr.net/gh//gary8177/pic@main/20220221_1645421710.png)
+
 ### 20220216
 
 ![Pixiv.Cat](https://pixiv.re/96274491.jpg)

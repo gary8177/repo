@@ -25,3 +25,6 @@
 * 其他
   * [arch-install自动脚本.md](其他\arch-install自动脚本.md) 
   * [index配置备份.md](其他\index配置备份.md) 
+  *  [Python路线.md](其他\Python路线.md) 
+  *  [python教程（oeasy）(1).md](其他\python教程（oeasy）(1).md) 
+  *  [vim教程（oeasy）(1).md](其他\vim教程（oeasy）(1).md) 

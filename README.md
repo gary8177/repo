@@ -2,9 +2,9 @@
 
 ### 20220314
 
-![96800415_p0_master1200](https://cdn.jsdelivr.net/gh//gary8177/pic@main/20220314_1647228445.jpg)
+![96800415_p0_master1200](https://pixiv.re/96800415.jpg)
 
-![96800329_p0_master1200](https://cdn.jsdelivr.net/gh//gary8177/pic@main/20220314_1647228467.jpg)
+![96800329_p0_master1200](https://pixiv.re/96800329.jpg)
 
 ### 20220221
 

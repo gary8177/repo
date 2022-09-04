@@ -2,6 +2,10 @@
 
 
 
+### 20220904
+
+![[100906106.jpg (1768×2500) (pixiv.re)](https://pixiv.re/100906106.jpg)](https://pixiv.re/100906106.jpg)
+
 ### 20220831
 
 本网站菜谱均来自[程序员做饭指南](https://github.com/Anduin2017/HowToCook)

@@ -1,5 +1,7 @@
 # 风沙星辰的知识库
 
+![](https://pixiv.re/82867352_p1.jpg)
+
 ### 20221105
 ![](https://pixiv.re/113202105.jpg)
 ![](https://pixiv.re/101733315.jpg)

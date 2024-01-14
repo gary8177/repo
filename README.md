@@ -13,7 +13,7 @@
 
 ### 20220904
 
-![[100906106.jpg (1768×2500) (pixiv.cat)](https://pixiv.cat/100906106.jpg)](https://pixiv.cat/100906106.jpg)
+![](https://pixiv.cat/100906106.jpg)
 
 ### 20220831
 
@@ -29,9 +29,6 @@
 
 ![waifu](https://cdn.jsdelivr.net/gh//gary8177/pic@main/20220221_1645421710.png)
 
-### 20220216
-
-![Pixiv.Cat](https://pixiv.cat/96274491.jpg)
 
 ### 20220213
 

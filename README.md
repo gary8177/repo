@@ -1,5 +1,6 @@
 # 风沙星辰的知识库
 
+![](https://dartnode.com/assets/dash/images/brand/logo.png)https://dartnode.com
 ### 20231220
 ![](https://pixiv.nl/113628215.jpg)
 ![](https://pixiv.nl/107392903.jpg)
